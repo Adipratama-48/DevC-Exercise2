@@ -1,0 +1,40 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color:lightblue;
+    background-size: cover;
+}
+
+#header p {
+    font-family: 'Lato', cursive;
+    font-size: 40pt;
+    color: #000;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    font-size: 13pt;
+    background-color: skyblue;
+    padding: 30px;
+    margin: 150;
+}
+
+.section {
+    background-color: lightblue;
+    padding: 30px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-weight: bold;  
+}
+
+.section .p {
+    padding: 30px;
+    border-radius: 20px;
+}
